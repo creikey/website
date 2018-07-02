@@ -1,0 +1,7 @@
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/vickylai/hugo-theme-introduction.git
+[submodule "public"]
+	path = public
+	url = git@github.com:creikey/creikey.github.io.git
+	branch = master
