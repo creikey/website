@@ -4,7 +4,7 @@ date: 2018-07-02T00:36:10-07:00
 draft: false
 ---
 
-I am a 15 year old programmer, 3d artist, game designer, and high schooler from California
+I am a programmer, 3d artist, musician, and game designer
 
 ### Lightning Round Qualifications
 
