@@ -1,3 +1,5 @@
+enableRobotsTXT             = true                              # SEO file
+canonifyURLS                = true
 baseURL                     = "https://creikey.github.io/"            # Your domain name. Must end with "/"
 languageCode                = "en-us"                           # languageCode
 title                       = "creikey"                    # Site title
