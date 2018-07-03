@@ -6,4 +6,4 @@ weight: 2
 draft: false
 ---
 
-I enjoy using blender to 3d model various objects and to make VFX. I also use blender to develop assets for game development
+I enjoy using blender to 3d model various objects and to make VFX. I also use blender to develop assets for game development. My blendswap profile is [here](https://www.blendswap.com/user/creikey)
