@@ -61,6 +61,10 @@ enforce_ssl                 = false
     url = "http://208.113.133.6"
     icon = "server"
 
+[[params.social]]
+    url = "https://soundcloud.com/creikey/"
+    icon = "soundcloud"
+
 #[[params.social]]
 #    url  = "https://facebook.com/"
 #    icon = "facebook"

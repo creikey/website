@@ -13,3 +13,4 @@ I am a programmer, 3d artist, musician, and game designer
 * Able to do 3D design and creation in blender
 * Author of various games [on itch.io](https://creikey.itch.io/)
 * Over sixty [github projects](https://github.com/creikey)
+* Various musical projects [on soundcloud](https://soundcloud.com/creikey/)

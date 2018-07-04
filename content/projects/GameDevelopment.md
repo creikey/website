@@ -1,5 +1,5 @@
 ---
-title: "GameDevelopment"
+title: "Game Development"
 date: 2018-07-02T02:19:36-07:00
 image: "/img/godot.png"
 weight: 3
