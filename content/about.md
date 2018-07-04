@@ -8,7 +8,7 @@ I am a programmer, 3d artist, musician, and game designer
 
 ### Lightning Round Qualifications
 
-* Eagle scout
+* Life scout
 * Competent in C++, C, Golang, Godot, HTML/CSS/Javascript, Java, Vim
 * Able to do 3D design and creation in blender
 * Author of various games [on itch.io](https://creikey.itch.io/)
