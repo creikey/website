@@ -2,7 +2,7 @@
 title: "Modeling"
 date: 2018-07-02T01:05:06-07:00
 image: "/img/icosphere.png"
-weight: 2
+weight: 3
 draft: false
 ---
 

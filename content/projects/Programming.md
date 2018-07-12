@@ -3,7 +3,7 @@ title: "Programming"
 date: 2018-07-02T00:46:46-07:00
 image: "/img/coding.jpg"
 external_link: ""
-weight: 2
+weight: 1
 draft: false
 ---
 
