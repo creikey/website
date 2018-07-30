@@ -7,4 +7,7 @@ weight: 1
 draft: false
 ---
 
-I am continually trying to improve my skills as a programmer, with the goal of being able to create and do anything I want as efficiently as possible with a computer. Most of my projects are either [on my github](https://github.com/creikey) or on [my personal git server](http://208.113.133.6)
+I enjoy programming because it allows me to create things that are useful to me and others. Projects are [on my github](https://github.com/creikey) or [my personal git server](http://208.113.133.6)
+
+<div class="github-card" data-github="creikey" data-width="100%" data-height="200" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
