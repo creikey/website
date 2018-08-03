@@ -65,6 +65,10 @@ enforce_ssl                 = false
     url = "https://soundcloud.com/creikey/"
     icon = "soundcloud"
 
+[[params.social]]
+    url = "https://steamcommunity.com/id/creikey"
+	icon = "steam"
+
 #[[params.social]]
 #    url  = "https://facebook.com/"
 #    icon = "facebook"
